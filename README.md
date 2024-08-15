@@ -12,7 +12,7 @@ Here's something about me:
 - I'm a Master's student at Galgotias College of Engineering and Technology, Greater Noida.
 - Currently learning MERN Stack.
 - All of my projects are available **here**
-- How to reach me: **kumarb6653@gmail.com**
+- How to reach me: **basant.kumarr.01@gmail.com**
 <!-- 💬 Ask me about -->
 
 ### My Tech Stack
